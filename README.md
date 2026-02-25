@@ -10,7 +10,7 @@ This project provides a deep dive into Fortnite player telemetry to understand t
 > **Data Disclaimer:** The dataset used in this project is **AI-generated** for analytical and demonstration purposes. It simulates real-world gaming telemetry but does not represent actual player data from Epic Games.
 
 ## 📊 Dashboard Preview
-![Fortnite Dashboard Preview](./dashboard preview.png)
+![Fortnite Dashboard Preview](./dashboard_preview.png)
 *View the interactive dashboard here: [Fortnite Performance Dashboard](https://public.tableau.com/app/profile/favour.jokparose/viz/FortnitePlayersPerformance/Dashboard1?publish=yes)*
 
 ## 🛠️ Tech Stack
